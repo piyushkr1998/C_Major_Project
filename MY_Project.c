@@ -19,7 +19,7 @@ int main() {
         "Tum Hi Ho - Aashiqui 2",
         "Kesariya - Brahmastra",
         "Apna Bana Le - Bhediya",
-        "Bulleya - Sultan"
+       "Tera Ban Jaunga - Kabir Singh"
     };
 
     char lyrics[MAX_SONGS][1000] = {
